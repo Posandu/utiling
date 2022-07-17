@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  tcol: ^1.0.2
+
+dependencies:
+  tcol: 1.0.2
+
+packages:
+
+  /tcol/1.0.2:
+    resolution: {integrity: sha512-86lw7D8THlM64uAM3O4uLjgmx2IBOxsDrNPtpDfgzfhmpf1AFOep/w1mfeWFj8VUTPsopiYp9hxOP8rSo9SL3w==}
+    dev: false
